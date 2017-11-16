@@ -8,7 +8,7 @@ body {
 
 a {
   color: white;
-  font-size: 18px;
+  font-weight: bold;
 }
 
 h1 {
@@ -34,18 +34,19 @@ p {
 footer {
   text-align: left;
   background-color: dimgray;
+  color: white;
+  font-size: 11px;
 }
 
 .header {
   background-image: url("./images/the-flatiron-building.png")
 }
 
+.nav {
+  font-size: 18px;
+}
+
 #NY {
   color: white;
   background-image: url("./images/the-flatiron-building.png")
-}
-
-#copyright {
-  font-size 11px;
-  color: white;
 }
